@@ -1,0 +1,17 @@
+The data files in this repository (data/) and the trained model weights
+(models/), together with the associated Zenodo data record (infrared image
+datasets), are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share and adapt this material for any purpose, provided you
+give appropriate credit to:
+
+  Dye, B. C., & Morra, G. (2026). Detection of Small and Large Strombolian
+  Eruptions in Noisy Temporal Infrared Images with a CNN: Toward Continuous
+  Monitoring. PNAS Nexus.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The underlying infrared imagery was acquired by the autonomous camera system
+of Peters et al. (2014) and is made available courtesy of the Mount Erebus
+Volcano Observatory (MEVO).

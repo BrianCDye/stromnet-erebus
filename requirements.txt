@@ -1,0 +1,15 @@
+# Keras 3.13.2 is the exact version that saved models/lava_lake_classifier_inference.keras.
+#tensorflow[and-cuda]==2.21.*      # for NVIDIA GPU training on Linux, install "tensorflow[and-cuda]==2.21.*" instead
+tensorflow==2.21.*
+keras==3.13.2
+numpy==2.4.*
+pandas==3.0.*             # code is also compatible with pandas 2.x (see CHANGES.md #6)
+scikit-learn==1.8.*
+matplotlib>=3.9
+opencv-python>=4.10       # provenance track (P2) only
+Pillow>=10.0
+jupyterlab>=4.0
+ipywidgets>=8.0           # interactive review UI in R5 only
+cleanlab>=2.6             # provenance track (P4) only
+obspy>=1.4                # provenance track (P1) only
+natsort>=8.0

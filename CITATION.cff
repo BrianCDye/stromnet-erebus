@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the article and the archived records below."
+title: "StromNet-Erebus: CNN Detection of Strombolian Eruptions in Multitemporal Infrared Images"
+authors:
+  - family-names: Dye
+    given-names: Brian C.
+    affiliation: "University of Louisiana at Lafayette"
+  - family-names: Morra
+    given-names: Gabriele
+    affiliation: "University of Louisiana at Lafayette"
+version: 1.0.0
+date-released: 2026-07-25
+license: MIT
+repository-code: "https://github.com/ADD-USERNAME/stromnet-erebus"
+doi: 10.5281/zenodo.ADD-SOFTWARE-DOI
+preferred-citation:
+  type: article
+  title: "Detection of Small and Large Strombolian Eruptions in Noisy Temporal Infrared Images with a CNN: Toward Continuous Monitoring"
+  authors:
+    - family-names: Dye
+      given-names: Brian C.
+    - family-names: Morra
+      given-names: Gabriele
+  journal: "PNAS Nexus"
+  year: 2026
+  doi: ADD-ARTICLE-DOI
