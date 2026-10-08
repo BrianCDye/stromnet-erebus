@@ -4,7 +4,7 @@ Code, trained model, and data pipeline for:
 
 > Dye, B. C., & Morra, G. (2026). *Detection of Small and Large Strombolian
 > Eruptions in Noisy Multitemporal Infrared Images with a CNN: Toward Continuous
-> Monitoring.* PNAS Nexus. DOI: []
+> Monitoring.* PNAS Nexus. DOI: [https://doi.org/]
 
 StromNet is a lightweight convolutional neural network (597,987 parameters)
 that classifies temporal infrared images of the Ray lava lake atop Mount
