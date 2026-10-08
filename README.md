@@ -13,7 +13,7 @@ Erebus, Antarctica, into **no eruption**, **small eruption**, and
 (about 2 s apart) into the red, green, and blue channels, so motion between
 frames appears as color while the static crater appears gray.
 
-**Archived releases:** code DOI (https://doi.org/10.24433/CO.7211757.v1), data DOI https://doi.org/10.15784/600381)
+**Archived releases:** code DOI https://doi.org/10.24433/CO.7211757.v1, data DOI https://doi.org/10.15784/600381
 
 ---
 
